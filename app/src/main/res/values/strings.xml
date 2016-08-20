@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Skidki</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_task1">Задача 1</string>
+    <string name="title_activity_task2">Задача 2</string>
+    <string name="title_activity_task3">Задача 3</string>
+</resources>
